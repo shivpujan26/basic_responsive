@@ -1,0 +1,12 @@
+.first{ 
+    text-align: center;  
+} 
+.html{
+    color: white;
+    background-color: black ;
+}
+ .img{
+    height:50vh; 
+    width:60vw;
+    border: 5px solid white;
+} 
